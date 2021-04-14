@@ -1,0 +1,83 @@
+{
+    "participants": [
+      {
+        "id": 1,
+        "name": "Эмилье",
+        "surname" : "Жаклен",
+        "hitting": 5,
+        "rateOfFire": 2.15
+      },
+
+      {
+        "id": 2,
+        "name": "Йоханнес",
+        "surname" : "Бё",
+        "hitting": 4,
+        "rateOfFire": 2.11
+      },
+
+      {
+        "id": 3,
+        "name": "Симон",
+        "surname" : "Детьё",
+        "hitting": 2,
+        "rateOfFire": 2.12
+      },
+
+      {
+        "id": 4,
+        "name": "Артём",
+        "surname" : "Прима",
+        "hitting": 1,
+        "rateOfFire": 2.10
+      },
+
+      {
+        "id": 5,
+        "name": "Андрей",
+        "surname" : "Расторгуев",
+        "hitting": 3,
+        "rateOfFire": 2.17
+      },
+
+      {
+        "id": 6,
+        "name": "Симон",
+        "surname" : "Эдер",
+        "hitting": 2,
+        "rateOfFire": 1.58
+      },
+
+      {
+        "id": 7,
+        "name": "Себастиан",
+        "surname" : "Самуэльссон",
+        "hitting": 5,
+        "rateOfFire": 2.20
+      },
+
+      {
+        "id": 8,
+        "name": "Эдуард",
+        "surname" : "Латыпов",
+        "hitting": 4,
+        "rateOfFire": 2.18
+      },
+
+      {
+        "id": 9,
+        "name": "Кентен",
+        "surname" : "Фийон",
+        "hitting": 3,
+        "rateOfFire": 2.15
+      },
+
+      {
+        "id": 10,
+        "name": "Стурла",
+        "surname" : "Холм",
+        "hitting": 1,
+        "rateOfFire": 2.14
+      }
+    ]
+  }
