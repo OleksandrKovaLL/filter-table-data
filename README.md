@@ -1,4 +1,4 @@
-##A project for filtering a table with data.
+## A project for filtering a table with data.
 
 ---
 
